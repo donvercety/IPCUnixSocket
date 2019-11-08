@@ -1,8 +1,8 @@
 Simple [inter-process communication][1] proof of concept wrapper with an example.
 
-Examples:
-- `MODE=server node example.js` initialize server
-- `MODE=client node example.js` initialize client
+Examples commands:
+- `$ MODE=server node example.js` initialize server
+- `$ MODE=client node example.js` initialize client
 
 Include the helper library:
 ```js
