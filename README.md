@@ -1,4 +1,5 @@
-Simple [inter-process communication][1] proof of concept wrapper with an example.
+Simple [inter-process communication][1] using [Unix domain socket][2].
+Pproof of concept wrapper with an example.
 
 Examples commands:
 - `$ MODE=server node example.js` initialize server
@@ -67,3 +68,4 @@ client.on('error', err => {
 ```
 
 [1]:https://en.wikipedia.org/wiki/Inter-process_communication
+[2]:https://en.wikipedia.org/wiki/Unix_domain_socket
