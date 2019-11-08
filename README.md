@@ -1,5 +1,5 @@
 Simple [inter-process communication][1] using [Unix domain socket][2].
-Pproof of concept wrapper with an example.
+Proof of concept wrapper with an example.
 
 Examples commands:
 - `$ MODE=server node example.js` initialize server
